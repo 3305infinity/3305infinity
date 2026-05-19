@@ -52,6 +52,14 @@ A full-stack platform that unifies your competitive programming journey across C
 
 ---
 
+### [FinSpark Nexus](https://github.com/3305infinity/finspark-Nexus) — AI-Assisted Integration Orchestration Platform
+> **React · FastAPI · PostgreSQL · Python · YAML · NLP**
+
+- Parses BRDs/SOWs to automatically detect enterprise services, authentication methods, workflow dependencies, and required fields
+- Generates tenant-isolated integration YAML configs with intelligent adapter matching, schema mapping, version selection, retry hooks, and validation pipelines
+- Includes a simulation engine for pre-deployment testing with field validation, auth checks, timeout handling, rollback support, and execution tracing
+- Built an orchestration dashboard with audit visibility, vault-based secret referencing, adapter recommendation system, and real-time configuration insights
+
 ## 🏆 Achievements
 
 | 🥇 | |
