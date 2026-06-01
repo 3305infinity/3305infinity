@@ -15,6 +15,17 @@
 ---
 
 ## 🚀 Featured Projects
+### [YT StudyFlow](https://github.com/3305infinity/utube_study_ai_assistant) — AI Learning Layer for YouTube
+> **Chrome Extension · TypeScript · Gemini AI · RAG · Semantic Search**
+
+A Chrome extension that converts YouTube lectures into a searchable AI tutor capable of contextual Q&A, automated note generation, revision planning, and cross-video knowledge retrieval.
+
+- 🎯 Built a transcript-driven **RAG system** with semantic chunking, retrieval, and grounded AI responses
+- 🤖 Uses **Gemini AI** to generate notes, flashcards, quizzes, chapter summaries, and adaptive learning paths
+- 📖 Enables playlist-level knowledge retrieval with timestamp-linked answers and cross-lecture concept exploration
+- 🧠 Implements **SM-2 spaced repetition** and revision workflows to improve long-term retention
+- 💾 Developed a local-first architecture using IndexedDB for study history, analytics, and persistent learning data
+
 
 ### [HackStreak](https://github.com/3305infinity/hackstreak_with-_ml_service) — Competitive Programming Analytics Platform
 > **MERN Stack · Python Flask · scikit-learn · Gemini LLM**
