@@ -111,13 +111,3 @@ A full-stack platform that unifies your competitive programming journey across C
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
----
-
----
-
-<div align="center">
-
-*"Code is not just logic — it's a craft."*  
-**Always building. Always learning.**
-
-</div>
