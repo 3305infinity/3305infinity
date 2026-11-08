@@ -10,7 +10,7 @@ Currently exploring Agentic AI, LLM-powered applications, voice interfaces, dist
 - Focused on building practical products from architecture to deployment
 - Solved 900+ DSA problems across competitive programming platforms
 
-[GitHub](https://github.com/3305infinity) · [LeetCode](https://leetcode.com/u/icebear1410/) · [LinkedIn](YOUR_LINKEDIN_URL)
+[Resume](https://drive.google.com/file/d/1kBLQnkUlHxobrLUccNH5iuPySWau1cRh/view?usp=drive_link) · [LeetCode](https://leetcode.com/u/icebear1410/) · [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nishtha-pandey-654426302/)) · [Codeforces](https://codeforces.com/profile/nikki_p05) 
 
 ---
 
